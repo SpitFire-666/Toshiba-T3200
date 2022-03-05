@@ -18,6 +18,8 @@ It plugs into the left hand side of the motherboard / keyboard controller.
 
 # Info
 
+https://oldcomputer.info/portables/t3200/index.htm
+
 https://www.youtube.com/watch?v=bdotvenfClw
 
 https://www.youtube.com/watch?v=hrJgjmAPzmE
