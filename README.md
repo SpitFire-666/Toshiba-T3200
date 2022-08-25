@@ -18,6 +18,7 @@ It plugs into the left hand side of the motherboard / keyboard controller.
 
 # Info
 
+
 https://oldcomputer.info/portables/t3200/index.htm
 
 https://www.youtube.com/watch?v=bdotvenfClw
@@ -35,3 +36,8 @@ https://www.youtube.com/watch?v=49SNshVOyxU
 https://gtello.pagesperso-orange.fr/t3200_e.htm
 
 https://www.youtube.com/watch?v=gChpa0_5S3Q
+
+
+## User manual
+
+https://usermanual.wiki/Collections/Product-Manuals/Toshiba/Other/Toshiba%20T3200%20-%20Owners%20Manual.pdf
