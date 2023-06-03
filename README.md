@@ -63,6 +63,13 @@ Stuff I've seen running on these beasts
 - XTree GOld
 - Fire Hawk
 - 8088 Domination: https://www.youtube.com/watch?v=6vTPqO2sgrU
+- ModPlayPlus
+- Sound Blaster Pro Intelligent Organ 
+- Creative Talking Parrot
+- PC Paint
+- Planet X3
+- Arkanoid
+- Commander Keen 1
 
 # Info
 
