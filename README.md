@@ -4,6 +4,21 @@
 
 ![image](https://user-images.githubusercontent.com/38451588/156483791-ba03106e-cab0-47d1-b43b-a0cb67ac7bd3.png)
 
+# Keyboard
+
+https://deskthority.net/viewtopic.php?f=62&t=603&start=
+
+# Memory / RAM
+
+## Built-in
+
+## Additional
+
+36P711476G01
+F32MEM
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/cb65bce6-f0b2-47b2-8f09-263055b5bcbf)
+
 
 
 ## Optional RAM/Memory Module
