@@ -4,6 +4,26 @@
 
 ![image](https://user-images.githubusercontent.com/38451588/156483791-ba03106e-cab0-47d1-b43b-a0cb67ac7bd3.png)
 
+# Gotchas / Things Worth Knowing
+
+- Floppy drive is 720KB - NOT 1.44MB
+- Additional memory is on a proprietary expansion card - there are no SIMM slots etc
+- External monitor is connected via a CGA connector - NOT VGA
+- Accessing the internals involves disassembling the screen (removing the LED stickers)
+
+
+# Display
+
+## How to disassemble/replace the display
+
+https://www.youtube.com/watch?v=bdotvenfClw
+
+## XCHAD
+
+Use XCHAD adjust colours
+
+Ctrl + SysReq brings up the UI
+
 # Keyboard
 
 https://deskthority.net/viewtopic.php?f=62&t=603&start=
@@ -12,7 +32,16 @@ https://deskthority.net/viewtopic.php?f=62&t=603&start=
 
 ## Built-in
 
-## Additional
+
+## Optional RAM/Memory Module
+
+- Usually 3MB expansion kit
+- kingston ktt-3200 3b
+
+It plugs into the left hand side of the motherboard / keyboard controller. 
+
+![image](https://user-images.githubusercontent.com/38451588/155870440-f8ff2c20-6b7f-4a02-b392-b47d59b2946e.png)
+
 
 36P711476G01
 F32MEM
@@ -20,16 +49,20 @@ F32MEM
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/cb65bce6-f0b2-47b2-8f09-263055b5bcbf)
 
 
+# Hard Disk Drive (HDD)
 
-## Optional RAM/Memory Module
+Installing an unsupported HDD via a SCSI card: https://www.youtube.com/watch?v=bdotvenfClw
 
-- Unknown capacity
-- kingston ktt-3200 3b
+# Floppy Disk Drive (FDD)
 
-It plugs into the left hand side of the motherboard / keyboard controller. 
+# Apps and Games
 
-![image](https://user-images.githubusercontent.com/38451588/155870440-f8ff2c20-6b7f-4a02-b392-b47d59b2946e.png)
+Stuff I've seen running on these beasts
 
+- Space Quest III
+- XTree GOld
+- Fire Hawk
+- 8088 Domination: https://www.youtube.com/watch?v=6vTPqO2sgrU
 
 # Info
 
