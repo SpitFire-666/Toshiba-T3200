@@ -70,6 +70,8 @@ Stuff I've seen running on these beasts
 - Planet X3
 - Arkanoid
 - Commander Keen 1
+- CD-MAN 
+
 
 # Info
 
