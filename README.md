@@ -98,3 +98,15 @@ https://www.youtube.com/watch?v=gChpa0_5S3Q
 ## User manual
 
 https://usermanual.wiki/Collections/Product-Manuals/Toshiba/Other/Toshiba%20T3200%20-%20Owners%20Manual.pdf
+
+# Media
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/7f3a5016-34c5-47f8-9b94-e0ec099bce2e)
+
+https://notebookblog.cz/blog/wp-content/uploads/2022/06/T3200-ad.jpg
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/861e9ef8-1253-4b7b-9e7c-1e8dccd96800)
+
+https://www.techrepublic.com/wp-content/uploads/2017/07/screen-shot-2017-07-11-at-1-32-47-pm.png
+
+
