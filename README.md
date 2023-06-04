@@ -6,17 +6,50 @@
 
 # Gotchas / Things Worth Knowing
 
-- Floppy drive is 720KB - NOT 1.44MB
+- Early models have a 720KB floppy drive - NOT 1.44MB. Later models included a 1.44MB drive
 - Additional memory is on a proprietary expansion card - there are no SIMM slots etc
 - External monitor is connected via a CGA connector - NOT VGA
 - Accessing the internals involves disassembling the screen (removing the LED stickers)
 
 
-# Display
+# Hardware
 
-## How to disassemble/replace the display
+# Hard Disk Drive (HDD)
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/2bd76dbf-bf01-4ace-9560-40b2da76f9c9)
+
+
+
+
+## Switches
+
+- A/B/PRT should be set to PRT. This switch controls what the parallel port functions as.
+
+With switch set to "A", external FDD port is accessed as drive A; internal 3.5" FDD as drive B.
+With switch set to "B", external FDD port is accessed as drive B; internal 3.5" FDD as drive A.
+Switch is set to "PRT" for parallel printer output.
+Computer must be re-booted for switch change to take effect.
+
+### DIP Switches
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/e634b0d1-955c-4d50-9c72-75b82917fd3c)
+
+
+
+### Soft Switches
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/52430930-67ba-4a8d-a16f-36bd57008271)
+
+## Display
+
+### How to disassemble/replace the display
 
 https://www.youtube.com/watch?v=bdotvenfClw
+
+
+Panel: Matsushita md400f720pd1 (m400f720bdt52)
+
+# Software
 
 ## XCHAD
 
@@ -49,11 +82,15 @@ F32MEM
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/cb65bce6-f0b2-47b2-8f09-263055b5bcbf)
 
 
+https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba-t3200.53833/page-2
+
 # Hard Disk Drive (HDD)
 
 Installing an unsupported HDD via a SCSI card: https://www.youtube.com/watch?v=bdotvenfClw
 
 # Floppy Disk Drive (FDD)
+
+- 26-pin 
 
 # Apps and Games
 
@@ -71,6 +108,12 @@ Stuff I've seen running on these beasts
 - Arkanoid
 - Commander Keen 1
 - CD-MAN 
+
+# Troubleshooting
+
+## Floppy drive issues
+
+- Check/replace the 16V 10uF filter caps near the motor driver. They're SMTs
 
 
 # Info
@@ -98,6 +141,9 @@ https://www.youtube.com/watch?v=gChpa0_5S3Q
 ## User manual
 
 https://usermanual.wiki/Collections/Product-Manuals/Toshiba/Other/Toshiba%20T3200%20-%20Owners%20Manual.pdf
+
+Info: https://minuszerodegrees.net/manuals/Toshiba/Other/Toshiba%20T3200%20-%20Information.pdf
+
 
 # Media
 
