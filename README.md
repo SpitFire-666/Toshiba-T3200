@@ -4,21 +4,18 @@
 
 ![image](https://user-images.githubusercontent.com/38451588/156483791-ba03106e-cab0-47d1-b43b-a0cb67ac7bd3.png)
 
-# Gotchas / Things Worth Knowing
+# ℹ Gotchas / Things Worth Knowing
 
 - Early models have a 720KB floppy drive - NOT 1.44MB. Later models included a 1.44MB drive
 - Additional memory is on a proprietary expansion card - there are no SIMM slots etc
 - External monitor is connected via a CGA connector - NOT VGA
 - Accessing the internals involves disassembling the screen (removing the LED stickers)
 
-
 # Hardware
 
 # Hard Disk Drive (HDD)
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/2bd76dbf-bf01-4ace-9560-40b2da76f9c9)
-
-
 
 
 ## Switches
@@ -35,19 +32,20 @@ Computer must be re-booted for switch change to take effect.
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/e634b0d1-955c-4d50-9c72-75b82917fd3c)
 
 
-
 ### Soft Switches
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/52430930-67ba-4a8d-a16f-36bd57008271)
 
 ## Display
 
+- Pics of display panel (PDP): https://imgur.com/a/PFSZChy
+
 ### How to disassemble/replace the display
 
 https://www.youtube.com/watch?v=bdotvenfClw
 
-
 Panel: Matsushita md400f720pd1 (m400f720bdt52)
+
 
 # Software
 
@@ -65,6 +63,7 @@ https://deskthority.net/viewtopic.php?f=62&t=603&start=
 
 ## Built-in
 
+[Info about DOS/XMS/EMS](https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba-t3200.53833/page-2)
 
 ## Optional RAM/Memory Module
 
