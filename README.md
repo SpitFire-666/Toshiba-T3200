@@ -1,4 +1,4 @@
-# Toshiba-T3200
+# Toshiba T3200
 
 - I don't have one (yet...)
 
@@ -13,9 +13,12 @@
 
 # Hardware
 
-# Hard Disk Drive (HDD)
+
+## Hard Disk Drive (HDD)
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/2bd76dbf-bf01-4ace-9560-40b2da76f9c9)
+
+Installing an unsupported HDD via a SCSI card: https://www.youtube.com/watch?v=bdotvenfClw
 
 
 ## Switches
@@ -47,7 +50,47 @@ https://www.youtube.com/watch?v=bdotvenfClw
 Panel: Matsushita md400f720pd1 (m400f720bdt52)
 
 
+## Keyboard
+
+https://deskthority.net/viewtopic.php?f=62&t=603&start=
+
+## Memory / RAM
+
+### Built-in
+
+[Info about DOS/XMS/EMS](https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba-t3200.53833/page-2)
+
+### Optional 3MB RAM/Memory Module
+
+Plugs into motherboard
+
+Known models
+- kingston ktt-3200 3b
+- Cubig T3M7137
+- F32MEM 36P711476G01
+- PA7137U
+
+![image](https://user-images.githubusercontent.com/38451588/155870440-f8ff2c20-6b7f-4a02-b392-b47d59b2946e.png)
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/cb65bce6-f0b2-47b2-8f09-263055b5bcbf)
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/8bd7a584-7f37-4200-8b7d-5edc0644f4f5)
+
+
+
+https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba-t3200.53833/page-2
+
+## Floppy Disk Drive (FDD)
+
+- 26-pin 
+
+# BIOS
+
+Use TEST3.EXE to access the BIOS
+
 # Software
+
+Machine came with MS-DOS 3.3 from the factory
 
 ## XCHAD
 
@@ -55,43 +98,7 @@ Use XCHAD adjust colours
 
 Ctrl + SysReq brings up the UI
 
-# Keyboard
-
-https://deskthority.net/viewtopic.php?f=62&t=603&start=
-
-# Memory / RAM
-
-## Built-in
-
-[Info about DOS/XMS/EMS](https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba-t3200.53833/page-2)
-
-## Optional RAM/Memory Module
-
-- Usually 3MB expansion kit
-- kingston ktt-3200 3b
-
-It plugs into the left hand side of the motherboard / keyboard controller. 
-
-![image](https://user-images.githubusercontent.com/38451588/155870440-f8ff2c20-6b7f-4a02-b392-b47d59b2946e.png)
-
-
-36P711476G01
-F32MEM
-
-![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/cb65bce6-f0b2-47b2-8f09-263055b5bcbf)
-
-
-https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba-t3200.53833/page-2
-
-# Hard Disk Drive (HDD)
-
-Installing an unsupported HDD via a SCSI card: https://www.youtube.com/watch?v=bdotvenfClw
-
-# Floppy Disk Drive (FDD)
-
-- 26-pin 
-
-# Apps and Games
+## Apps and Games
 
 Stuff I've seen running on these beasts
 
@@ -113,6 +120,10 @@ Stuff I've seen running on these beasts
 ## Floppy drive issues
 
 - Check/replace the 16V 10uF filter caps near the motor driver. They're SMTs
+
+## Connecting an external floppy via the parallel port
+
+https://forum.vcfed.org/index.php?threads/toshiba-t3200-with-no-floppy.29617/
 
 
 # Info
