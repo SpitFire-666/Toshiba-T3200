@@ -18,6 +18,9 @@
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/2bd76dbf-bf01-4ace-9560-40b2da76f9c9)
 
+Known models:
+- Fujitsu M2227DT
+
 Installing an unsupported HDD via a SCSI card: https://www.youtube.com/watch?v=bdotvenfClw
 
 
@@ -84,6 +87,10 @@ https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba
 
 - 26-pin 
 
+Known model numbers
+Toshiba ND-356S-A (1.44MB)
+
+
 # BIOS
 
 Use TEST3.EXE to access the BIOS
@@ -114,6 +121,15 @@ Stuff I've seen running on these beasts
 - Arkanoid
 - Commander Keen 1
 - CD-MAN 
+- Zaxxon
+- Tower Toppler
+- Accolade Grand Prix Circuit
+- Double Dragon
+- prince of persia
+- space racer
+- prehistorik
+- Falcon
+- Striker
 
 # Troubleshooting
 
@@ -165,4 +181,6 @@ https://notebookblog.cz/blog/wp-content/uploads/2022/06/T3200-ad.jpg
 
 https://www.techrepublic.com/wp-content/uploads/2017/07/screen-shot-2017-07-11-at-1-32-47-pm.png
 
+# Disassembly
 
+https://www.youtube.com/watch?v=VU8P75qtYr4
