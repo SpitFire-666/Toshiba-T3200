@@ -11,6 +11,10 @@
 - External monitor is connected via a CGA connector - NOT VGA
 - Accessing the internals involves disassembling the screen (removing the LED stickers)
 
+# Models
+
+PA7039U
+
 # Hardware
 
 
@@ -86,6 +90,11 @@ https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba
 ## Floppy Disk Drive (FDD)
 
 - 26-pin 
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/b23b0648-bc03-4332-a030-894b7d51b496)
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/88ad08e3-b431-482a-a11b-b07c8e6ebdf4)
+
 
 Known model numbers
 Toshiba ND-356S-A (1.44MB)
