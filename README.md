@@ -102,7 +102,8 @@ Toshiba ND-356S-A (1.44MB)
 
 # BIOS
 
-Use TEST3.EXE to access the BIOS
+- Use ```TEST3.EXE``` to access the BIOS
+- Can also use Shift + Control + F10 at startup
 
 # Software
 
