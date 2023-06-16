@@ -1,8 +1,5 @@
-# Toshiba T3200
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/28225772-d040-46ea-84e1-062690178733)
 
-- I don't have one (yet...)
-
-![image](https://user-images.githubusercontent.com/38451588/156483791-ba03106e-cab0-47d1-b43b-a0cb67ac7bd3.png)
 
 # ℹ Gotchas / Things Worth Knowing
 
@@ -11,12 +8,12 @@
 - External monitor is connected via a CGA connector - NOT VGA
 - Accessing the internals involves disassembling the screen (removing the LED stickers)
 
-# Models
+# Model numbers
 
 PA7039U
+PA7039E
 
 # Hardware
-
 
 ## Hard Disk Drive (HDD)
 
@@ -25,10 +22,12 @@ PA7039U
 Known models:
 - Fujitsu M2227DT
 
-Installing an unsupported HDD via a SCSI card: https://www.youtube.com/watch?v=bdotvenfClw
+### Alternatives
+- XT-IDE CF works fine for me, even with a working HDD. It boots off the original HDD and mounts the CF card as D:\
+- To boot from an XT-IDE card, you need to access the BIOS and set HDD to ```None```
+- Installing an unsupported HDD via a SCSI card: https://www.youtube.com/watch?v=bdotvenfClw
 
-
-## Switches
+## Switches/Buttons/Ports
 
 - A/B/PRT should be set to PRT. This switch controls what the parallel port functions as.
 
@@ -141,7 +140,30 @@ Stuff I've seen running on these beasts
 - Falcon
 - Striker
 
+| Software | Yay/Nay/Other | Comment |
+| -------- | -------- | -------- |
+| stars.com    | Yay   |    |
+| LXPic | Yay | | 
+| PictVIEW | Nay | Requires a 386+ | |
+| MS Flight Simulator 4 | Other | Did not work in EGA mono. More testing req'd | 
+| Norton Commander 4 | Yay | |
+| Doom / FastDoom | Nay | Requires a 386+ | |
+| Aquanoid | Nay | Illegal function call? | | 
+| BioMenace | Other | Out of memory error with 1MB. Might require more memory, or HIMEM.SYS? | 
+| Chip's Challenge (DOS) | Yay | | 
+| Ford Simulator | | |
+| UGH | | | 
+| MS Word 5.5 | | | 
+
 # Troubleshooting
+
+## Flat CMOS battery
+
+![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/c2bf91bf-22d0-4140-9991-6a4ec4aa365a)
+
+## Lines down the screen
+
+https://retropaq.com/repairing-gas-plasma-displays/
 
 ## Floppy drive issues
 
@@ -151,15 +173,13 @@ Stuff I've seen running on these beasts
 
 https://forum.vcfed.org/index.php?threads/toshiba-t3200-with-no-floppy.29617/
 
-
 # Info
-
 
 https://oldcomputer.info/portables/t3200/index.htm
 
-https://www.youtube.com/watch?v=bdotvenfClw
+[Retro Swim ]https://www.youtube.com/watch?v=bdotvenfClw
 
-https://www.youtube.com/watch?v=hrJgjmAPzmE
+[VWestlife's YouTube tour](https://www.youtube.com/watch?v=hrJgjmAPzmE)
 
 https://www.1000bit.it/scheda.asp?id=1636
 
@@ -174,7 +194,7 @@ https://gtello.pagesperso-orange.fr/t3200_e.htm
 https://www.youtube.com/watch?v=gChpa0_5S3Q
 
 
-## User manual
+## User manuals
 
 https://usermanual.wiki/Collections/Product-Manuals/Toshiba/Other/Toshiba%20T3200%20-%20Owners%20Manual.pdf
 
