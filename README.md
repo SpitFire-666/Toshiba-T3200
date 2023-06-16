@@ -7,10 +7,12 @@
 - Additional memory is on a proprietary expansion card - there are no SIMM slots etc
 - External monitor is connected via a CGA connector - NOT VGA
 - Accessing the internals involves disassembling the screen (removing the LED stickers)
+- Keyboard layout is non-standard. For example, no F11, F12. Alt key is ABOVE Ctrl key. Esc key is where Num Lock would usually be
 
 # Model numbers
 
 PA7039U
+
 PA7039E
 
 # Hardware
@@ -47,13 +49,13 @@ Computer must be re-booted for switch change to take effect.
 
 ## Display
 
+Panel: Matsushita MD400F720PD1 (PCB: M400F720BDT52)
+
 - Pics of display panel (PDP): https://imgur.com/a/PFSZChy
 
 ### How to disassemble/replace the display
 
 https://www.youtube.com/watch?v=bdotvenfClw
-
-Panel: Matsushita md400f720pd1 (m400f720bdt52)
 
 
 ## Keyboard
