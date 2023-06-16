@@ -9,7 +9,7 @@
 - Accessing the internals involves disassembling the screen (removing the LED stickers)
 - Keyboard layout is non-standard. For example, no F11, F12. Alt key is ABOVE Ctrl key. Esc key is where Num Lock would usually be
 
-# Model numbers
+# 🔢 Model numbers
 
 PA7039U
 
@@ -47,7 +47,7 @@ Computer must be re-booted for switch change to take effect.
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/52430930-67ba-4a8d-a16f-36bd57008271)
 
-## Display
+## 🖥 Display
 
 Panel: Matsushita MD400F720PD1 (PCB: M400F720BDT52)
 
@@ -58,7 +58,7 @@ Panel: Matsushita MD400F720PD1 (PCB: M400F720BDT52)
 https://www.youtube.com/watch?v=bdotvenfClw
 
 
-## Keyboard
+## ⌨️ Keyboard
 
 https://deskthority.net/viewtopic.php?f=62&t=603&start=
 
@@ -84,11 +84,9 @@ Known models
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/8bd7a584-7f37-4200-8b7d-5edc0644f4f5)
 
-
-
 https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba-t3200.53833/page-2
 
-## Floppy Disk Drive (FDD)
+## 💾 Floppy Disk Drive (FDD)
 
 - 26-pin 
 
@@ -101,18 +99,24 @@ Known model numbers
 Toshiba ND-356S-A (1.44MB)
 
 
-# BIOS
+# BIOS / CMOS
 
 - Use ```TEST3.EXE``` to access the BIOS
 - Can also use Shift + Control + F10 at startup
 
-# Software
+## 🔋 CMOS Battery
+
+- Mine has a Tadiran 3.6v battery with a 3.3k resistor (orange, orange, purple, gold)
+
+# 🔌 Power Supply (PSU)
+
+# 💾 Software
 
 Machine came with MS-DOS 3.3 from the factory
 
 ## XCHAD
 
-Use XCHAD adjust colours
+Use XCHAD to adjust colours
 
 Ctrl + SysReq brings up the UI
 
@@ -159,7 +163,7 @@ Stuff I've seen running on these beasts
 
 # Troubleshooting
 
-## Flat CMOS battery
+## 🔋 Flat CMOS battery
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/c2bf91bf-22d0-4140-9991-6a4ec4aa365a)
 
@@ -167,7 +171,7 @@ Stuff I've seen running on these beasts
 
 https://retropaq.com/repairing-gas-plasma-displays/
 
-## Floppy drive issues
+## 💾 Floppy drive issues
 
 - Check/replace the 16V 10uF filter caps near the motor driver. They're SMTs
 
@@ -175,7 +179,7 @@ https://retropaq.com/repairing-gas-plasma-displays/
 
 https://forum.vcfed.org/index.php?threads/toshiba-t3200-with-no-floppy.29617/
 
-# Info
+# ℹ️ Info
 
 https://oldcomputer.info/portables/t3200/index.htm
 
@@ -196,7 +200,7 @@ https://gtello.pagesperso-orange.fr/t3200_e.htm
 https://www.youtube.com/watch?v=gChpa0_5S3Q
 
 
-## User manuals
+## 📚 User manuals
 
 https://usermanual.wiki/Collections/Product-Manuals/Toshiba/Other/Toshiba%20T3200%20-%20Owners%20Manual.pdf
 
@@ -213,6 +217,6 @@ https://notebookblog.cz/blog/wp-content/uploads/2022/06/T3200-ad.jpg
 
 https://www.techrepublic.com/wp-content/uploads/2017/07/screen-shot-2017-07-11-at-1-32-47-pm.png
 
-# Disassembly
+# 🪛 Disassembly
 
 https://www.youtube.com/watch?v=VU8P75qtYr4
