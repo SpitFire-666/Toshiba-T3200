@@ -57,10 +57,15 @@ Panel: Matsushita MD400F720PD1 (PCB: M400F720BDT52)
 
 https://www.youtube.com/watch?v=bdotvenfClw
 
+## 💨 Fans
+
+- 2x 40mm
+
+
 ## 🔊 PC Speaker
 
 - Very loud compared to T3200SX/T5200
-- It's at the rear, above the ISA card bay
+- Located at rear, above the ISA card bay
 
 ## ⌨️ Keyboard
 
