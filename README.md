@@ -57,6 +57,10 @@ Panel: Matsushita MD400F720PD1 (PCB: M400F720BDT52)
 
 https://www.youtube.com/watch?v=bdotvenfClw
 
+## 🔊 PC Speaker
+
+- Very loud compared to T3200SX/T5200
+- It's at the rear, above the ISA card bay
 
 ## ⌨️ Keyboard
 
@@ -107,6 +111,7 @@ Toshiba ND-356S-A (1.44MB)
 ## 🔋 CMOS Battery
 
 - Mine has a Tadiran 3.6v battery with a 3.3k resistor (orange, orange, purple, gold)
+- I replaced mine with 2x AA batteries in a holder
 
 # 🔌 Power Supply (PSU)
 
