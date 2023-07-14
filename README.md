@@ -170,6 +170,9 @@ Stuff I've seen running on these beasts
 | Ford Simulator | | |
 | UGH | | | 
 | MS Word 5.5 | | | 
+| ACDSee 1.01 | 🚫 | Requires 256 colour display
+| LView 1.B | | Requires CTL3DV2.DLL
+
 
 # Troubleshooting
 
