@@ -41,7 +41,7 @@ Panel: Matsushita MD400F720PD1 (PCB: M400F720BDT52)
 https://www.youtube.com/watch?v=bdotvenfClw
 
 ## 🗄️ Hard Disk Drive (HDD)
-> Note: HDD connector is NOT IDE. 
+> Note: HDD connector is a non-standard 26-pin connector, NOT IDE!
 
 Known models:
 - Fujitsu M2227DT - 40MB
