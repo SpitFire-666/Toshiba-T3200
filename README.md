@@ -17,14 +17,38 @@ PA7039E
 
 # Hardware
 
-## Hard Disk Drive (HDD)
+## 💨 Fans
+
+- 2x 40mm, 12v
+
+## 🔊 PC Speaker
+
+- Very loud compared to T3200SX/T5200
+- Located at rear, above the ISA card bay
+
+## ⌨️ Keyboard
+
+- Info: https://deskthority.net/viewtopic.php?f=62&t=603&start=
+
+## 🖥 Display
+
+Panel: Matsushita MD400F720PD1 (PCB: M400F720BDT52)
+
+- Pics of display panel (PDP): https://imgur.com/a/PFSZChy
+
+### How to disassemble/replace the display
+
+https://www.youtube.com/watch?v=bdotvenfClw
+
+## 🗄️ Hard Disk Drive (HDD)
+> Note: HDD connector is NOT IDE. 
+
+Known models:
+- Fujitsu M2227DT - 40MB
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/2bd76dbf-bf01-4ace-9560-40b2da76f9c9)
 
-Known models:
-- Fujitsu M2227DT
-
-### Alternatives
+### HDD Alternatives
 - XT-IDE CF works fine for me, even with a working HDD. It boots off the original HDD and mounts the CF card as D:\
 - To boot from an XT-IDE card, you need to access the BIOS and set HDD to ```None```
 - Installing an unsupported HDD via a SCSI card: https://www.youtube.com/watch?v=bdotvenfClw
@@ -46,30 +70,6 @@ Computer must be re-booted for switch change to take effect.
 ### Soft Switches
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/52430930-67ba-4a8d-a16f-36bd57008271)
-
-## 🖥 Display
-
-Panel: Matsushita MD400F720PD1 (PCB: M400F720BDT52)
-
-- Pics of display panel (PDP): https://imgur.com/a/PFSZChy
-
-### How to disassemble/replace the display
-
-https://www.youtube.com/watch?v=bdotvenfClw
-
-## 💨 Fans
-
-- 2x 40mm
-
-
-## 🔊 PC Speaker
-
-- Very loud compared to T3200SX/T5200
-- Located at rear, above the ISA card bay
-
-## ⌨️ Keyboard
-
-https://deskthority.net/viewtopic.php?f=62&t=603&start=
 
 ## Memory / RAM
 
@@ -97,15 +97,14 @@ https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba
 
 ## 💾 Floppy Disk Drive (FDD)
 
-- 26-pin 
+> Note: the FDD uses a non-standard 26-pin connector, carrying both power and data. Same as the T3200SX and T5200
+
+- Earlier models shipped with a 720k drive
+- Known models: Toshiba ND-356S-A (720k)
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/b23b0648-bc03-4332-a030-894b7d51b496)
 
 ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/88ad08e3-b431-482a-a11b-b07c8e6ebdf4)
-
-
-Known model numbers
-Toshiba ND-356S-A (1.44MB)
 
 
 # BIOS / CMOS
