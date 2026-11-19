@@ -53,7 +53,7 @@ Known models:
 - To boot from an XT-IDE card, you need to access the BIOS and set HDD to ```None```
 - Installing an unsupported HDD via a SCSI card: https://www.youtube.com/watch?v=bdotvenfClw
 
-## Switches/Buttons/Ports
+## 🔲 Switches/Buttons/Ports
 
 - A/B/PRT should be set to PRT. This switch controls what the parallel port functions as.
 
@@ -77,21 +77,15 @@ Computer must be re-booted for switch change to take effect.
 
 [Info about DOS/XMS/EMS](https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba-t3200.53833/page-2)
 
-### Optional 3MB RAM/Memory Module
+### ➕ Optional 3MB RAM expansion
+> Plugs into motherboard
 
-Plugs into motherboard
-
-Known models
-- kingston ktt-3200 3b
-- Cubig T3M7137
-- F32MEM 36P711476G01
-- PA7137U
-
-![image](https://user-images.githubusercontent.com/38451588/155870440-f8ff2c20-6b7f-4a02-b392-b47d59b2946e.png)
-
-![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/cb65bce6-f0b2-47b2-8f09-263055b5bcbf)
-
-![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/8bd7a584-7f37-4200-8b7d-5edc0644f4f5)
+| Model | Pic |
+|---|---|
+| kingston ktt-3200 3b | ![image](https://user-images.githubusercontent.com/38451588/155870440-f8ff2c20-6b7f-4a02-b392-b47d59b2946e.png) |
+| Cubig T3M7137 |  ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/8bd7a584-7f37-4200-8b7d-5edc0644f4f5)  |
+| F32MEM 36P711476G01 | ![image](https://github.com/SpitFire-666/Toshiba-T3200/assets/38451588/cb65bce6-f0b2-47b2-8f09-263055b5bcbf)  |
+| PA7137U | |
 
 https://forum.vcfed.org/index.php?threads/himem-sys-not-finding-xms-on-a-toshiba-t3200.53833/page-2
 
